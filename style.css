@@ -1,0 +1,24 @@
+
+li {
+    list-style: none;
+}
+
+h1 {
+font-family: 'Merriweather', serif;
+font-family: 'Sigmar', cursive;
+text-align: left;
+}
+.search-bar {
+    text-align: left;
+}
+
+h2 {
+    font-weight: bold;
+}
+#explanayion {
+    color: red;
+}
+ul {
+    margin: 0;
+    padding: 0%;
+}
